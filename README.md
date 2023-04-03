@@ -30,4 +30,4 @@ Run `python api.py` in "x64 native tools command prompt".
 
 ## Extra - Get puplic address without portfoward
 - I recommend downloading jprq https://github.com/azimjohn/jprq/releases/tag/2.0
-- Auth, then exec with jprq-windows-amd64.exe http 8080
+- Auth, then exec with jprq-windows-amd64.exe http 5000
